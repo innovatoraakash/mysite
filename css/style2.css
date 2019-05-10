@@ -1,0 +1,141 @@
+@media only screen and (max-width: 600px) {
+
+body{
+background-color: #cdf7ed;
+text-align: center;
+margin: 0;
+font-family: 'Sacramento', cursive;
+}
+.intro{
+  font-size: 9vw;
+  color: #06214c;
+  text-shadow: 0.3vw 0.2vw #6a70ba;
+margin: 0 auto;
+position: relative;
+top: 8%;
+font-family: sans-serif;
+}
+.top{
+  background-color:#def7f0;
+  height: 59vw;
+}
+.mt{
+  width: 100vw;
+  margin: 0 auto;
+  position: relative;
+  bottom: 13%;
+}
+div{
+
+  width: 10vw
+  height: 10vw
+
+  line-height: 1.5;
+}
+.introdes{
+  font-size: 3vw;
+  color: #4a53d3;
+  text
+  margin: 0 auto;
+  position: relative;
+  bottom: 1%
+
+}
+.cloud{ width: 12%;
+  height: 10%;
+  margin: 0 0;
+position: relative;
+right: 30%;
+bottom: 10%
+}
+.pic{
+shape-outside: circle();
+border-radius: 25%;
+border-color: black;
+width:27vw;
+margin: 5px 50px;
+}
+#sk1{
+  float: left;
+  margin:10px
+
+}
+#sk2{
+  float: right;
+  margin: 10px
+
+}
+p{
+  margin: 5% 12%;
+}
+hr{
+
+  border: dotted #b0c4bb;
+  box-sizing: border-box;
+  border-radius: 20px;
+  border-width: 6px 0 0 0;
+  align-self: center;
+  width: 15%
+}
+a{
+  margin: 5% 4%;
+  text-decoration: none;
+  color: #688ecc;
+}
+.btn{
+  background:    #6fa8dc;
+background:    -webkit-linear-gradient(#6fa8dc, #674ea7);
+background:    linear-gradient(#6fa8dc, #674ea7);
+border:        0px solid #556699;
+border-radius: 5px;
+box-shadow:    0 1px #444444;
+padding:       8px 9px;
+color:         #ffffff;
+display:       inline-block;
+font:          normal 700 15px/1 "Droid Serif", serif;
+text-align:    center;
+text-shadow:   1px 1px #444444;
+}
+.bottom-container{
+  background-color: #b8d6cb;
+  padding: 5px 2px 1px 2px;
+  margin-bottom: 0px;
+}
+a:hover{
+  color:#3719a0;
+}
+h2{
+  font-size: 30px;
+  color: #456bd8;
+}
+h3{
+  font-size: 20px;
+  color: #5dc1a6;
+  padding: 10px 10px
+
+}
+.skill-row{
+  text-align: left;
+  margin-left: 3px;
+}
+.skill-row1{
+  text-align: right;
+  margin-right: 3px;
+}
+.message{
+color: #456bd8;
+  font-size: 10px;
+  margin: 1px 0px;
+
+}
+prof{
+  position: relative;
+  left: 10%
+}
+#cr{
+  margin:  8px 0px 4px 0px;
+  font-size: 14px;
+}
+
+
+}
